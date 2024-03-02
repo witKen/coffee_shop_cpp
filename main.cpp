@@ -12,6 +12,7 @@ int main(){
                 exit = true;
                 break;
             case 1:
+                admin.admin();
                 break;
             case 2:
                 break;

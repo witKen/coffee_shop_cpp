@@ -4,5 +4,7 @@
 Loading loading;
 #include"login.h"
 Login login;
+Admin admin;
+
 
 #endif 

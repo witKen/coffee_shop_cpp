@@ -25,7 +25,7 @@ public:
                 pw = readPassword();   
                 if(pw == adminPw){
                     loading.load("\nLogin as admin");
-                    return 2;
+                    return 1;
                 }else{
                     cout<<"\nInvalid Password\n";
                     system("pause");

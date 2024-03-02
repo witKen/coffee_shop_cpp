@@ -7,8 +7,11 @@
 #include<conio.h>
 #include<chrono>
 #include<thread>
+
 using namespace std;
+
 #include"loading.h"
+#include"../admin/admin.h"
 #include"header.h"
 #include"../user/user.h"
 
